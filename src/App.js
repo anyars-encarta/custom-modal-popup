@@ -1,11 +1,11 @@
-import CustomModalPopup from './components/custom-modal-popup';
+import ModalUse from './components/custom-modal-popup/modal-use';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <CustomModalPopup />
+        <ModalUse />
       </header>
     </div>
   );
