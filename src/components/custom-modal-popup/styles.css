@@ -58,6 +58,7 @@ button:hover {
 .body {
     padding: 2px 16px;
     height: 200px;
+    color: #000;
 }
 
 .footer {
