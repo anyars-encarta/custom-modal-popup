@@ -1,6 +1,19 @@
 button {
     cursor: pointer;
+    font-size: 40px;
+    padding: 10px;
+    background: #5cb85c;
+    color: #fff;
+    border: 1px solid #5cb85c;
 }
+
+button:hover {
+    background-color: #fff;
+    color:#5cb85c;
+    border: 1px solid #5cb85c;
+    transition: 0.7s ease;
+}
+
 
 .modal {
     position: fixed;
@@ -30,6 +43,11 @@ button {
     font-size: 40px;
     float: right;
     font-weight: bold;
+}
+
+.close-modal-icon:hover {
+    transform: rotate(-90deg);
+    transition: 0.7s ease;
 }
 
 .header {

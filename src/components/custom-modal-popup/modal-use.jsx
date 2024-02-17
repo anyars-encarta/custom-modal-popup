@@ -18,14 +18,15 @@ const ModalUse = () => {
             <button onClick={handleToggleModalPopup}>Open Modal Popup</button>
 
             {
-              showModalPopup && (
-                <Modal 
-                onClose={onClose}
-                header={<h1>Customized Header</h1>}
-                body={<div>Customized body</div>}
-                footer={<h2>Customized Footer</h2>}
-              />
-              )
+                showModalPopup && (
+                    <Modal
+                        id={'custom-id'}
+                        onClose={onClose}
+                        header={<h1>Customized Header</h1>}
+                        body={<div>Customized body</div>}
+                        footer={<h2>Customized Footer</h2>}
+                    />
+                )
             }
         </div>
     )
