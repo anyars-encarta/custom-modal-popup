@@ -24,15 +24,14 @@ button:hover {
     width: 100%;
     height: 100%;
     overflow: auto;
-    background-color: #baf005;
 }
 
 .modal-content {
     position: relative;
     background-color: #fefefe;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
     margin: auto;
     padding: 0;
-    border: 1px solid red;
     width: 80%;
     animation-name: animateModal;
     animation-duration: 0.5s;
