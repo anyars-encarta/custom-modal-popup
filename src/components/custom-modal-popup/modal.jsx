@@ -1,12 +1,14 @@
-import './styles.css';
-
-const Modal = ({id, header, body, footer}) => {
+const Modal = ({id, header, body, footer, onClose}) => {
     return (
         <div id={id || 'Modal'} className='modal'>
-            <div clannName='modal-content'>
+            <div className='modal-content'>
                 <div className='header'>
-                  <span className='close=modal-icon'>&times;</span>
-                  <h2>{header ? header : 'Header'}</h2>
+                  <span onClick={onClose} className='close-modal-icon'>&times;</span>
+
+                  {
+                    header ? header : <h2>Header</h2>
+                  }
+                  
                 </div>
 
                 <div className='body'>
@@ -24,7 +26,6 @@ const Modal = ({id, header, body, footer}) => {
                 </div>
 
             </div>
-
         </div>
     )
 };
