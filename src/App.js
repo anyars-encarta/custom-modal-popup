@@ -1,7 +1,7 @@
 import ModalUse from './components/custom-modal-popup/modal-use';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <header className="App-header">
