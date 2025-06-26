@@ -41,7 +41,7 @@
 
 > Custom Popup is an interactive app that opens a popup dialog when a button is clicked.
 
-> Custom Popup is an interactive app that opens a popup dialog
+> Custom Popup is an interactive app that opens a popup
 
 ## 🛠 Built With <a name="built-with"></a>
 1. React
