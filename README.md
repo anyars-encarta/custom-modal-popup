@@ -40,8 +40,6 @@
 # 📖 Custom Popup<a name="about-project"></a>
 
 > Custom Popup is an interactive app that opens a popup dialog when a button is clicked. Created with React,CSS, and Webpack.
->
-> Created
 
 ## 🛠 Built With <a name="built-with"></a>
 1. React
