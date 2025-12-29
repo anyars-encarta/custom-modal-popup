@@ -11,6 +11,8 @@
 
   <h3><b>Custom Popup</b></h3>
 
+This is a custom pop up app.
+
 </div>
 
 <!-- TABLE OF CONTENTS -->
