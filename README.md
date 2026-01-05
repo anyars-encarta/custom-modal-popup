@@ -11,7 +11,7 @@
 
   <h3><b>Custom Popup</b></h3>
 
-This is a custom pop up app to illustrate the easier implementation of popup modal windows. More functionalities
+This is a custom pop up app to illustrate the easier implementation of popup modal windows. More functionalities to be
 
 </div>
 
