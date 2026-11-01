@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<div align=center" >
+<div align=center">
  <!-- LOGO -->
 
   <img src="./src/assets/custom-popup.JPG" alt="logo" width="160"  height="auto" />
