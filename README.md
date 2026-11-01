@@ -1,12 +1,11 @@
 <a name="readme-top"></a>
 
-<div>
-
  <!-- LOGO -->
 
   <img src="./src/assets/custom-popup.JPG" alt="logo" width="160"  height="auto" align="center"/>
   <br/>
 
+<div>
 <!-- MAIN HEADING -->
 
   <h3><b>Custom Popup</b></h3>
