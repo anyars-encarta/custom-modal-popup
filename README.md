@@ -3,7 +3,7 @@
 <div align=center">
  <!-- LOGO -->
 
-  <img src="./src/assets/custom-popup.JPG" alt="logo" width="160"  height="auto" />
+  <img src="./src/assets/custom-popup.JPG" alt="logo" width="160"  height="auto" align=center" />
 </div>
   <br/>
 
