@@ -1,15 +1,14 @@
-<a name="readme-top"></a>
-
 <div align="center">
+
  <!-- LOGO -->
 
-  <img src="./src/assets/custom-popup.JPG" alt="logo" width="160"  height="auto" />
+ <img src="./src/assets/custom-popup.JPG" alt="logo" width="160"  height="auto" />
+  <br/>
 
-    <br/>
+<!-- MAIN HEADING -->
 
-    <!-- MAIN HEADING -->
+  <h3><b>Garden Waste</b></h3>
 
-  <h3><b>Custom Popup</b></h3>
 </div>
 
 <div>
