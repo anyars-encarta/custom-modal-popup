@@ -4,12 +4,14 @@
  <!-- LOGO -->
 
   <img src="./src/assets/custom-popup.JPG" alt="logo" width="160"  height="auto" />
-</div>
-  <br/>
 
-<!-- MAIN HEADING -->
+    <br/>
+
+    <!-- MAIN HEADING -->
 
   <h3><b>Custom Popup</b></h3>
+</div>
+
 <div>
  
 This is a custom pop up app to illustrate the easier implementation of popup modal windows. More functionalities to be added later.
