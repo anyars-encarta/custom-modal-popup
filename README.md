@@ -7,11 +7,11 @@
 </div>
   <br/>
 
-<div>
 <!-- MAIN HEADING -->
 
   <h3><b>Custom Popup</b></h3>
-
+<div>
+ 
 This is a custom pop up app to illustrate the easier implementation of popup modal windows. More functionalities to be added later.
 
 </div>
